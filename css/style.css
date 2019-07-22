@@ -69,6 +69,10 @@ p a:hover {
   border: 5px solid rgb(204, 204, 204);
 }
 
+#press a img:hover {
+  border-color: rgb(111, 127, 122)
+}
+
 footer p {
   font-size: .80em;
   text-align: right;
