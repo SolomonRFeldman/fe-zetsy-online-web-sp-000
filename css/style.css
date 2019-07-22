@@ -15,7 +15,8 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0px auto;
+	margin: 0 auto;
+	margin-top: 1px;
 	background: #fff;
 	padding: 0 45px 20px;
 }
